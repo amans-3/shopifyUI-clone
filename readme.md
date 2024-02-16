@@ -2,7 +2,7 @@
 
 ### I have build this entire UI of Shopify website with tailwind CSS.
 
-[Live Link](https://shopify-website-clone.vercel.app/)
+[Live Link](https://shopifyui-clone.vercel.app/)
 
 ### Time-taken: 6 hrs
 
@@ -12,7 +12,5 @@
 
 - Tailwind CSS
 - How to make responsive websites
-
-This Project takes Half time in comapare to [Previous Project](https://github.com/AmanSingh-me/Paytm-website-clone)
 
 Note: _This Website is fully responsive_
